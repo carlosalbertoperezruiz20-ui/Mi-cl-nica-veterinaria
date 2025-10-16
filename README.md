@@ -1,1 +1,1 @@
-# Mi-cl-nica-veterinariaC:\Users\ADMIN\OneDrive\Desktop\pagina web basica\index.htmlC:\Users\ADMIN\OneDrive\Desktop\pagina web basica\script.jsC:\Users\ADMIN\OneDrive\Desktop\pagina web basica\style.css
+# Mi-cl-nica-veterinariaC:C:\Users\ADMIN\OneDrive\Desktop\pagina web basica\index.htmlC:\Users\ADMIN\OneDrive\Desktop\pagina web basica\script.jsC:\Users\ADMIN\OneDrive\Desktop\pagina web basica\style.css
